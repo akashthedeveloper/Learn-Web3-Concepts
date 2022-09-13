@@ -9,13 +9,13 @@
 | Day 5 | How Web 3 is different from Blockchain Technology? | [Click here]() |
 | Day 6 | What are Smart Contracts? | [Click here]() |
 | Day 7 | What are White Papers? | [Click here]() |
-| Day 8 |  | [Click here]() |
-| Day 9 |  | [Click here]() |
-| Day 10 |  | [Click here]() |
-| Day 11 |  | [Click here]() |
-| Day 12 | | [Click here]() |
-| Day 13 |  | [Click here]() |
-| Day 14| | [Click here]() |
-| Day 15|  | [Click here]() |
-| Day 16 | | [Click here]() |
-| Day 17 | | [Click here]() |
+| Day 8 | Roadmap To become Blockchain Developers? and What are Blockend Developer? | [Click here]() |
+| Day 9 | Understanding Importance of Community in Web3 | [Click here]() |
+| Day 10 | What are Wallets? | [Click here]() |
+| Day 11 | What are Tokens? | [Click here]() |
+| Day 12 | What is MetaMask and WallectConnect?| [Click here]() |
+| Day 13 | What is Proof of Work(POW)? | [Click here]() |
+| Day 14| What is Proof of Stake(POS)? | [Click here]() |
+| Day 15| Tech Roles to pursue in Web3 | [Click here]() |
+| Day 16 | Non-Tech Roles to pursue in Web3 | [Click here]() |
+| Day 17 | Understanding terms like * Ledger * Gas Fees | [Click here]() |
