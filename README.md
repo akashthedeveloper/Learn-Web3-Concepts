@@ -4,8 +4,8 @@
 
 | Sr no:  | Topics  | Link  |
 | :---: | :---:  | :---: |
-| Day 1 | - [x] What is Web 3.0? | [Click here](https://twitter.com/akash_the_dev/status/1569272032281645060) |
-| Day 2 | - [x] What is Blockchain Technology? | [Click here](https://twitter.com/akash_the_dev/status/1569659865077002240) |
+| Day 1 | :heavy_check_mark: What is Web 3.0? | [Click here](https://twitter.com/akash_the_dev/status/1569272032281645060) |
+| Day 2 | :heavy_check_mark: What is Blockchain Technology? | [Click here](https://twitter.com/akash_the_dev/status/1569659865077002240) |
 | Day 3 |  Need of Web 3  | [Click here]() |
 | Day 4 | Web 2 Vs Web 3| [Click here]() |
 | Day 5 | How Web 3 is different from Blockchain Technology? | [Click here]() |
