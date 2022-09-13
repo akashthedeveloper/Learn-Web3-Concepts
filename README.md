@@ -1,6 +1,6 @@
 # Learn-Web3-Concepts
 ## A Complete Beginners Guide to understand all the topics and concepts of Web3 and Blockchain in a simplified way.
-| Sr no:  | Topic  | Link  |
+| Sr no:  | Topics  | Link  |
 | :---: | :---:  | :---: | 
 | Day 1 | What is Web 3.0? | [Click here](https://twitter.com/akash_the_dev/status/1569272032281645060) |
 | Day 2 | What is Blockchain Technology? | [Click here](https://twitter.com/akash_the_dev/status/1569659865077002240) |
@@ -18,4 +18,4 @@
 | Day 14| What is Proof of Stake(POS)? | [Click here]() |
 | Day 15| Tech Roles to pursue in Web3 | [Click here]() |
 | Day 16 | Non-Tech Roles to pursue in Web3 | [Click here]() |
-| Day 17 | Understanding terms like * Ledger * Gas Fees | [Click here]() |
+| Day 17 | Understanding terms like: Ledger, Gas Fees, Immutable, Encryption, Cryptography, Airdrop | [Click here]() |
