@@ -1,5 +1,8 @@
 # Learn-Web3-Concepts
 ## A Complete Beginners Guide to understand all the topics and concepts of Web3 and Blockchain in a simplified way.
+
+## Follow me on [Twitter](https://twitter.com/akash_the_dev) & [LinkedIn](https://www.linkedin.com/in/akashjha123/)
+
 | Sr no:  | Topics  | Link  |
 | :---: | :---:  | :---: | 
 | Day 1 | What is Web 3.0? | [Click here](https://twitter.com/akash_the_dev/status/1569272032281645060) |
