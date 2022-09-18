@@ -21,3 +21,6 @@
 | Day 15| Tech Roles to pursue in Web3 | [Click here]() |
 | Day 16 | Non-Tech Roles to pursue in Web3 | [Click here]() |
 | Day 17 | Understanding terms like: Ledger, Gas Fees, Immutable, Encryption, Cryptography, Airdrop | [Click here]() |
+| Day 18 | What are cryptocurriencies? | [Click here]() |
+| Day 19 | What is Bitcoin? |  [Click here]() |
+| Day 20 | What is Ethereum? | [Click here]() |
