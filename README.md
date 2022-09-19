@@ -24,3 +24,5 @@
 | Day 18 | What are cryptocurriencies? | [Click here]() |
 | Day 19 | What is Bitcoin? |  [Click here]() |
 | Day 20 | What is Ethereum? | [Click here]() |
+| Day 21 | What is Solana? | [Click here]() |
+| Day 22 | What is Doge Coin? | [Click here]() |
