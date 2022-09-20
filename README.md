@@ -26,3 +26,8 @@
 | Day 20 | What is Ethereum? | [Click here]() |
 | Day 21 | What is Solana? | [Click here]() |
 | Day 22 | What is Doge Coin? | [Click here]() |
+| Day 23 | What is Shiba Inu Coin | [Click here]() |
+| Day 24 | What is Cardano? | [Click here]() |
+| Day 25 | What is UniSwap? | [Click here]() |
+| Day 26 | What is Celo ?| [Click here]() |
+| Day 27 | What is Tezos? | [Click here]() |
