@@ -31,3 +31,5 @@
 | Day 25 | What is UniSwap? | [Click here]() |
 | Day 26 | What is Celo ?| [Click here]() |
 | Day 27 | What is Tezos? | [Click here]() |
+| Day 28 | What is DeFi & Yield Farming? | [Click here]() |
+| Day 29 | What is Crypto Coins Vs Tokens? | [Click here]() |
