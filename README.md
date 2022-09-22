@@ -33,3 +33,4 @@
 | Day 27 | What is Tezos? | [Click here]() |
 | Day 28 | What is DeFi & Yield Farming? | [Click here]() |
 | Day 29 | What is Crypto Coins Vs Tokens? | [Click here]() |
+| Day 30 | Soft Fork Vs Hard Fork? | [Click here]() |
