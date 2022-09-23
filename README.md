@@ -34,3 +34,5 @@
 | Day 28 | What is DeFi & Yield Farming? | [Click here]() |
 | Day 29 | What is Crypto Coins Vs Tokens? | [Click here]() |
 | Day 30 | Soft Fork Vs Hard Fork? | [Click here]() |
+| Day 31 | What are NFT's? | [Click here]() |
+| Day 32 | What is Metaverse? | [Click here]() |
