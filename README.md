@@ -36,4 +36,5 @@
 | Day 30 | Soft Fork Vs Hard Fork? | [Click here]() |
 | Day 31 | What are NFT's? | [Click here]() |
 | Day 32 | What is Metaverse? | [Click here]() |
-| Day 33 | What are Whitepapers? | [Click here]() |
+| Day 33 | What are DAO's? | [Click here]() |
+| Day 34 | What are Dapps? | [Click here]() |
