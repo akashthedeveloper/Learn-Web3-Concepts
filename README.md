@@ -38,3 +38,4 @@
 | Day 32 | What is Metaverse? | [Click here]() |
 | Day 33 | What are DAO's? | [Click here]() |
 | Day 34 | What are Dapps? | [Click here]() |
+| Day 35 | What are Defi? | [Click here]() |
