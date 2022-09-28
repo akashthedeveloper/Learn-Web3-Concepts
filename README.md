@@ -39,3 +39,4 @@
 | Day 33 | What are DAO's? | [Click here]() |
 | Day 34 | What are Dapps? | [Click here]() |
 | Day 35 | What are Defi? | [Click here]() |
+| Day 36 | What is .eth domain? | [Click here]() |
