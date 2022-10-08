@@ -42,3 +42,4 @@
 | Day 36 | What is .eth domain? | [Click here]() |
 | Day 37 | What is ChainLink ? | [Click here]() |
 | Day 38 | What is Polkadot ? | [Click here]() |
+| Day 39 | What is NEAR Protocol ? | [Click here]() |
