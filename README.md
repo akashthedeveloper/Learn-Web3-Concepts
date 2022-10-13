@@ -46,3 +46,4 @@
 | Day 40 | What is Filecoin ? | [Click here]() |
 | Day 41 | What is IPFS ? | [Click here]() |
 | Day 42 | What is BNB ? | [Click here]() |
+| Day 43 | What is Play to Earn game in Web3 ? | [Click here]() |
