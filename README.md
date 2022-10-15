@@ -47,3 +47,4 @@
 | Day 41 | What is IPFS ? | [Click here]() |
 | Day 42 | What is BNB ? | [Click here]() |
 | Day 43 | What is Play to Earn game in Web3 ? | [Click here]() |
+| Day 44 | What is Ethereum Merge or ETH2.0? | [Click here]() |
