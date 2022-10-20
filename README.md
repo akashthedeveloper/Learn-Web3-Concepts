@@ -51,3 +51,4 @@
 | Day 45 | What is Push Protocol ? | [Click here]() |
 | Day 46 | What is Solidity ? | [Click here]() |
 | Day 47 | What is Rust? | [Click here]() |
+| Day 48 | What is Truffle? | [Click here]() |
