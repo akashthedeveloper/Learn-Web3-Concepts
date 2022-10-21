@@ -52,3 +52,4 @@
 | Day 46 | What is Solidity ? | [Click here]() |
 | Day 47 | What is Rust? | [Click here]() |
 | Day 48 | What is Truffle? | [Click here]() |
+| Day 49 | What is Hardhat? | [Click here]() |
