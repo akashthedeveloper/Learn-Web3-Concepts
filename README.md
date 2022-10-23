@@ -54,3 +54,5 @@
 | Day 48 | What is Truffle? | [Click here]() |
 | Day 49 | What is Hardhat? | [Click here]() |
 | Day 50 | What is Seahorse Lang? | [Click here]() |
+| Day 51 | What is Anchor? | [Click here]() |
+
