@@ -56,4 +56,5 @@
 | Day 50 | What is Seahorse Lang? | [Click here]() |
 | Day 51 | What is Anchor? | [Click here]() |
 | Day 52 | What is Opensea? | [Click here]() |
+| Day 53 | What is Web3.js ? | [Click here]() |
 
