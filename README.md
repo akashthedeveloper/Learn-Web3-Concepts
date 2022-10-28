@@ -59,3 +59,4 @@
 | Day 53 | What is Web3.js ? | [Click here]() |
 | Day 54 | What is Ether.js ? | [Click here]() |
 | Day 55 | What is Algorand ? | [Click here]() |
+| Day 56 | What is thirdweb.js ? | [Click here]() |
