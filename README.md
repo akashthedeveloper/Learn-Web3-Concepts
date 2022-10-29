@@ -60,3 +60,4 @@
 | Day 54 | What is Ether.js ? | [Click here]() |
 | Day 55 | What is Algorand ? | [Click here]() |
 | Day 56 | What is thirdweb.js ? | [Click here]() |
+| Day 57 | What is Neo ? | [Click here]() |
