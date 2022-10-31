@@ -62,3 +62,4 @@
 | Day 56 | What is thirdweb.js ? | [Click here]() |
 | Day 57 | What is Neo ? | [Click here]() |
 | Day 58 | What is Lens Protocol ? | [Click here]() |
+| Day 59 | What is ENS in Web3 ? | [Click here]() |
