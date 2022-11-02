@@ -63,3 +63,4 @@
 | Day 57 | What is Neo ? | [Click here]() |
 | Day 58 | What is Lens Protocol ? | [Click here]() |
 | Day 59 | What is ENS in Web3 ? | [Click here]() |
+| Day 60 | What is EVM ? | [Click here]() |
