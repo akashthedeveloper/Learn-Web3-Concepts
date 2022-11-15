@@ -64,4 +64,3 @@
 | Day 58 | What is Lens Protocol ? | [Click here]() |
 | Day 59 | What is ENS in Web3 ? | [Click here]() |
 | Day 60 | What is EVM ? | [Click here]() |
-| Day 61 | What is ? | [Click here]() |
