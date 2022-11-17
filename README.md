@@ -65,3 +65,4 @@
 | Day 59 | What is ENS in Web3 ? | [Click here]() |
 | Day 60 | What is EVM ? | [Click here]() |
 | Day 61 | What is ? | [Click here]() |
+| Day 62 | What is ? | [Click here]() |
