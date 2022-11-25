@@ -68,4 +68,3 @@
 | Day 62 | What is ? | [Click here]() |
 | Day 63 | What is ? | [Click here]() |
 | Day 64 | What is ? | [Click here]() |
-| Day 65 | What is ? | [Click here]() |
