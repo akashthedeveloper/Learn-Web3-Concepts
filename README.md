@@ -73,3 +73,4 @@
 | Day 67 | What is ? | [Click here]() |
 | Day 68 | What is ? | [Click here]() |
 | Day 69 | What is ? | [Click here]() |
+| Day 70 | What is ? | [Click here]() |
