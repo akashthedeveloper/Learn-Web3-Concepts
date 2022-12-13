@@ -75,3 +75,4 @@
 | Day 69 | What is ? | [Click here]() |
 | Day 70 | What is ? | [Click here]() |
 | Day 71 | What is ? | [Click here]() |
+| Day 72 | What is ? | [Click here]() |
