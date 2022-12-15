@@ -77,3 +77,4 @@
 | Day 71 | What is ? | [Click here]() |
 | Day 72 | What is ? | [Click here]() |
 | Day 73 | What is ? | [Click here]() |
+| Day 74 | What is ? | [Click here]() |
