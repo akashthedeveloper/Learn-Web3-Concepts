@@ -85,3 +85,4 @@ Ko# Learn-Web3-Concepts
 | Day 79 | What is ? | [Click here]() |
 | Day 80 | What is ? | [Click here]() |
 | Day 81 | What is ? | [Click here]() |
+| Day 82 | What is ? | [Click here]() |
