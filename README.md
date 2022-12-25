@@ -1,4 +1,4 @@
-Ko# Learn-Web3-Concepts
+# Learn-Web3-Concepts
 ## A Complete Beginners Guide to understand all the topics and concepts of Web3 and Blockchain in a simplified way.
 ## Follow me on [Twitter](https://twitter.com/akash_the_dev) & [LinkedIn](https://www.linkedin.com/in/akashjha123/)
 
@@ -86,3 +86,4 @@ Ko# Learn-Web3-Concepts
 | Day 80 | What is ? | [Click here]() |
 | Day 81 | What is ? | [Click here]() |
 | Day 82 | What is ? | [Click here]() |
+| Day 83 | What is ? | [Click here]() |
