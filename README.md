@@ -95,3 +95,4 @@
 | Day 89 | What is ? | [Click here]() |
 | Day 90 | What is ? | [Click here]() |
 | Day 91| What is ? | [Click here]() |
+| Day 92| What is ? | [Click here]() |
