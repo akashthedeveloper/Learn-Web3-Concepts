@@ -94,8 +94,9 @@
 | Day 88 | What is ? | [Click here]() |
 | Day 89 | What is ? | [Click here]() |
 | Day 90 | What is ? | [Click here]() |
-| Day 91| What is ? | [Click here]() |
-| Day 92| What is ? | [Click here]() |
-| Day 93| What is ? | [Click here]() |
-| Day 94| What is ? | [Click here]() |
-| Day 95| What is ? | [Click here]() |
+| Day 91 | What is ? | [Click here]() |
+| Day 92 | What is ? | [Click here]() |
+| Day 93 | What is ? | [Click here]() |
+| Day 94 | What is ? | [Click here]() |
+| Day 95 | What is ? | [Click here]() |
+| Day 96 | What is ? | [Click here]() |
