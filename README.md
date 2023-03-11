@@ -103,4 +103,3 @@
 | Day 97 | What is ? | [Click here]() |
 | Day 98 | What is ? | [Click here]() |
 | Day 99 | What is ? | [Click here]() |
-| Day 100 | What is ? | [Click here]() |
